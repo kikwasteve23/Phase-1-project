@@ -40,18 +40,20 @@ Avatar generated the highest gross profit among all movies analyzed in the datas
 
 IFC emerged as the leading film production company in the analyzed dataset, producing a high number of movies compared to the other films
 
-### TOP 10 MOVIES BY GROSS PROFIT
+### Domestic and foreign gross income over time
 ![e](4.PNG)
 
-English was found to be the dominant original language in the movie dataset, accounting for 87.6% of all films. This suggests that Englishspeaking audiences are a significant target audience for the movie industry. The prevalence of Englishlanguage films could be attributed to factors such as the global influence of Hollywood and the predominance of the English language in international business and media.
+The dominance of English as the original language in the movie dataset, accounting for 87.6% of all films, suggests that English-speaking audiences are a significant target audience for the movie industry, which could be attributed to factors such as the global influence of Hollywood and the predominance of the English language in international business and media.
 
 ### Top 5 movie genres
 ![e](5.PNG)
 
+Our analysis of the movie dataset revealed that drama is the most popular genre in terms of the number of movies produced, with over 38% of all movies falling under this category
 
-### Domestic and foreign gross income over time
+### Distribution of Movie Original Language
 ![e](6.PNG)
 
+The dominance of English as the original language in the movie dataset, accounting for 87.6% of all films, suggests that English-speaking audiences are a significant target audience for the movie industry, which could be attributed to factors such as the global influence of Hollywood and the predominance of the English language in international business and media.
 
 
 ## Recommendations
