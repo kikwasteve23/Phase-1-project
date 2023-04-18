@@ -1,23 +1,23 @@
 # Moringa school Project One Phase 1
 
 
-**Overview**
+## Overview
 
 I will be working on a project where I will use exploratory data analysis to generate insights for a business stakeholder. The business problem is that Microsoft wants to create a new movie studio, but they lack knowledge in creating movies. My task is to explore the types of films that are currently performing well at the box office and provide actionable insights to the head of Microsoft's new movie studio. The goal is to help them decide what types of films to create and ensure the success of their new venture.
 
-**Business problem**# 
+## Business problem 
 The business problem in this project is that Microsoft wants to enter the movie industry by creating a new movie studio, but they don't have any prior knowledge or experience in this field. The real-world problem is the lack of understanding of the current movie market and the types of films that are successful at the box office. The stakeholder in this case is the head of Microsoft's new movie studio who needs to make informed decisions about the type of films to create that would appeal to the audience and generate revenue.
 
-**Objective**
+## Objective
 To use exploratory data analysis to identify the most successful movie genres at the box office and provide actionable insights to the head of Microsoft's new movie studio to help guide their decision-making process when creating new films.
 
-**Business understnding**
+## Business understnding
 The project aims to explore what types of films are currently doing the best at the box office and translate those findings into actionable insights that can help the head of Microsoft's new movie studio in deciding what types of films to create. By analyzing the data, the project can provide insights into the popular genres, themes, and characteristics of successful films in the current market. This information can help the stakeholder make informed decisions and create films that would resonate with the audience and generate revenue for the company.
 
 The stakeholders who could use this project include the head of Microsoft's new movie studio, the creative team responsible for creating the films, and the marketing team responsible for promoting the films. The insights generated from the analysis could be used to inform the creative direction of the studio's films and help the marketing team in identifying target audiences and designing effective promotional strategies.
 
 In conclusion, this project's value lies in providing insights into the current movie market that can help Microsoft's new movie studio make informed decisions about the types of films to create. By understanding what types of films are currently successful, the studio can create films that appeal to the audience and generate revenue for the company.
-**Datasets**
+## Datasets
 We will be working with the following datasets:
 
 Box Office Mojo (bom.movie_gross.csv)
@@ -28,8 +28,12 @@ TheMovieDB (tmdb.movies.csv)
 
 The Numbers (tn.movie_budgets.csv)
 
+![e](1.PNG)
+![e](2.PNG)
+![e](3.PNG)
 
-**Recommendations**
+
+## Recommendations
 Below are some of the recommendations for the microsoft company:
 
 Plan to release movies in January, October, and April as these months seem to have a higher chance of success based on the popularity of released movies in the dataset.
