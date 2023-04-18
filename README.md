@@ -20,17 +20,38 @@ In conclusion, this project's value lies in providing insights into the current 
 ## Datasets
 We will be working with the following datasets:
 
-Box Office Mojo (bom.movie_gross.csv)
+* Box Office Mojo (bom.movie_gross.csv)
+* Rotten Tomatoes (rt.movie_info.tsv)
+* TheMovieDB (tmdb.movies.csv)
+* The Numbers (tn.movie_budgets.csv)
 
-Rotten Tomatoes (rt.movie_info.tsv)
-
-TheMovieDB (tmdb.movies.csv)
-
-The Numbers (tn.movie_budgets.csv)
-
+### NUMBER OF MOVIE RELEASES BY MONTH
 ![e](1.PNG)
+
+Most movies were released in January and October as compared to February and July.
+
+### TOP 10 MOVIES BY GROSS PROFIT
 ![e](2.PNG)
+
+Avatar generated the highest gross profit among all movies analyzed in the dataset.
+
+### Number of movies produced by top ten studioa
 ![e](3.PNG)
+
+IFC emerged as the leading film production company in the analyzed dataset, producing a high number of movies compared to the other films
+
+### TOP 10 MOVIES BY GROSS PROFIT
+![e](4.PNG)
+
+English was found to be the dominant original language in the movie dataset, accounting for 87.6% of all films. This suggests that Englishspeaking audiences are a significant target audience for the movie industry. The prevalence of Englishlanguage films could be attributed to factors such as the global influence of Hollywood and the predominance of the English language in international business and media.
+
+### Top 5 movie genres
+![e](5.PNG)
+
+
+### Domestic and foreign gross income over time
+![e](6.PNG)
+
 
 
 ## Recommendations
