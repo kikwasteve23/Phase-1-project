@@ -59,14 +59,14 @@ The dominance of English as the original language in the movie dataset, accounti
 ## Recommendations
 Below are some of the recommendations for the microsoft company:
 
-Plan to release movies in January, October, and April as these months seem to have a higher chance of success based on the popularity of released movies in the dataset.
+* Plan to release movies in January, October, and April as these months seem to have a higher chance of success based on the popularity of released movies in the dataset.
 
-Consider partnering with IFC and Universal Studios as they have produced more movies than other studios in the dataset.
+* Consider partnering with IFC and Universal Studios as they have produced more movies than other studios in the dataset.
 
-Take note that foreign gross is always higher than domestic gross, so consider targeting international markets as well when promoting and marketing movies.
+* Take note that foreign gross is always higher than domestic gross, so consider targeting international markets as well when promoting and marketing movies.
 
-If looking for a blockbuster movie with high gross profits, consider producing movies like Avatar, Star Wars Ep.VII: The Force Awakens, and Titanic, which have a history of performing well in terms of gross profit.
+* If looking for a blockbuster movie with high gross profits, consider producing movies like Avatar, Star Wars Ep.VII: The Force Awakens, and Titanic, which have a history of performing well in terms of gross profit.
 
-Consider producing movies in English as it is the most common language in the dataset and may have a wider audience.
+* Consider producing movies in English as it is the most common language in the dataset and may have a wider audience.
 
-Produce more movies in the Drama and Comedy genres as they are the most popular.# Phase_1_Project
+* Produce more movies in the Drama and Comedy genres as they are the most popular.
