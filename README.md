@@ -1,4 +1,4 @@
-# Moringa school Project One Phase 1
+# Project One Phase 1
 
 
 ## Overview
