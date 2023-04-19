@@ -11,7 +11,7 @@ The business problem in this project is that Microsoft wants to enter the movie 
 ## Objective
 To use exploratory data analysis to identify the most successful movie genres at the box office and provide actionable insights to the head of Microsoft's new movie studio to help guide their decision-making process when creating new films.
 
-## Business understnding
+## Business understanding
 The project aims to explore what types of films are currently doing the best at the box office and translate those findings into actionable insights that can help the head of Microsoft's new movie studio in deciding what types of films to create. By analyzing the data, the project can provide insights into the popular genres, themes, and characteristics of successful films in the current market. This information can help the stakeholder make informed decisions and create films that would resonate with the audience and generate revenue for the company.
 
 The stakeholders who could use this project include the head of Microsoft's new movie studio, the creative team responsible for creating the films, and the marketing team responsible for promoting the films. The insights generated from the analysis could be used to inform the creative direction of the studio's films and help the marketing team in identifying target audiences and designing effective promotional strategies.
